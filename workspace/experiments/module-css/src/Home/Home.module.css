@@ -5,3 +5,11 @@
 .headerOne {
     color: #eee;
 }
+
+div.myDiv .parag01 {
+    background-color: #eee;
+}
+
+div.myDiv .parag02 {
+    background-color: #aaa;
+}
